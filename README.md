@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">My name's daniel, front end dev and sushi enjoyer!<br>🔭 I’m working on improving my skills in front-end development and data analysis while exploring opportunities for remote work.<br>📚 I'm currently learning React, JavaScript, and exploring how to build interactive web apps.<br>⚡ In my free time,I play volleyball, experiment with coding projects and enjoy watching movies!</p>
+<p align="left">My name's daniel, front end dev and sushi enjoyer!<br>🔭 working on improving my skills in front-end development and data analysis.<br>📚 Currently learning React, Typescript and Python, and exploring how to build interactive web apps.<br>⚡ In my free time,I play volleyball, experiment with coding projects and enjoy watching movies!</p>
 
 ###
 
